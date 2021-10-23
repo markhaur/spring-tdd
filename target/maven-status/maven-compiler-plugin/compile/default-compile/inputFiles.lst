@@ -1,0 +1,10 @@
+/home/markhaur/spring/tdd-junit/Ex_Files_Spring_TestDev_JUnit/Exercise Files/Chapter2/02_02/begin/src/main/java/com/hanselnpetal/domain/DeliveryAddress.java
+/home/markhaur/spring/tdd-junit/Ex_Files_Spring_TestDev_JUnit/Exercise Files/Chapter2/02_02/begin/src/main/java/com/hanselnpetal/service/ContactsManagementService.java
+/home/markhaur/spring/tdd-junit/Ex_Files_Spring_TestDev_JUnit/Exercise Files/Chapter2/02_02/begin/src/main/java/com/hanselnpetal/controller/ContactsManagementController.java
+/home/markhaur/spring/tdd-junit/Ex_Files_Spring_TestDev_JUnit/Exercise Files/Chapter2/02_02/begin/src/main/java/com/hanselnpetal/Application.java
+/home/markhaur/spring/tdd-junit/Ex_Files_Spring_TestDev_JUnit/Exercise Files/Chapter2/02_02/begin/src/main/java/com/hanselnpetal/data/repos/CustomerContactRepository.java
+/home/markhaur/spring/tdd-junit/Ex_Files_Spring_TestDev_JUnit/Exercise Files/Chapter2/02_02/begin/src/main/java/com/hanselnpetal/domain/Customer.java
+/home/markhaur/spring/tdd-junit/Ex_Files_Spring_TestDev_JUnit/Exercise Files/Chapter2/02_02/begin/src/main/java/com/hanselnpetal/domain/ContactImportantOccasion.java
+/home/markhaur/spring/tdd-junit/Ex_Files_Spring_TestDev_JUnit/Exercise Files/Chapter2/02_02/begin/src/main/java/com/hanselnpetal/domain/Order.java
+/home/markhaur/spring/tdd-junit/Ex_Files_Spring_TestDev_JUnit/Exercise Files/Chapter2/02_02/begin/src/main/java/com/hanselnpetal/domain/BillingAddress.java
+/home/markhaur/spring/tdd-junit/Ex_Files_Spring_TestDev_JUnit/Exercise Files/Chapter2/02_02/begin/src/main/java/com/hanselnpetal/domain/CustomerContact.java
