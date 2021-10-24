@@ -1,2 +1,4 @@
-package com.hanselnpetal.controller;public class ContactsManagementControllerIntegrationTest {
+package com.hanselnpetal.controller;
+
+public class ContactsManagementControllerIntegrationTest {
 }
