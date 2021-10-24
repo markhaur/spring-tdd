@@ -51,4 +51,16 @@ public class ContactsManagementControllerUnitTest {
                 .andExpect(status().isOk())
                 .andReturn();
     }
+
+    @Test
+    public void testAddContactBizServiceRulesNotSatisfied() throws Exception {
+        when(contactsManagementService.add(any(CustomerContact.class)))
+                .thenReturn(null);
+        CustomerContact contact = new CustomerContact();
+        contact.setFirstName("faisal");
+
+        mockMvc.perform(post("/addContact", null))
+                .andExpect(status().is(null))
+                .andReturn();
+    }
 }
