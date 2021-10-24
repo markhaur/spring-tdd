@@ -86,7 +86,7 @@ public class CustomerContact {
 	}
 
 	public void setDeliveryAddressZipCode(String deliveryAddressLZipCode) {
-		this.deliveryAddressCity = deliveryAddressLZipCode;
+		this.deliveryAddressZipCode = deliveryAddressLZipCode;
 	}
 	
 
